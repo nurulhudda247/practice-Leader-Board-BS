@@ -26,3 +26,19 @@ font-weight: 600;
 .player-name{
     font-size: 18px;
 }
+
+.blog-img{
+    width: 177px;
+}
+
+.blog-title{
+    font-size: 18px;
+}
+
+.author .author-name{
+    font-size: 14px;
+}
+
+.author-name{
+    color: #562EFF;
+}
