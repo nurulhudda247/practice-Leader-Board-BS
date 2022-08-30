@@ -13,3 +13,16 @@
 .active{
 font-weight: 600;
 }
+
+.section-title{
+    color: #562eff;
+    font-size: 24px;
+}
+
+.player-img{
+    width: 56px;
+}
+
+.player-name{
+    font-size: 18px;
+}
