@@ -1,0 +1,15 @@
+.body-bg{
+    background-color: #F3F1FF;
+}
+
+.nav-bg{
+    background-color: #562EFF;
+}
+
+.logo{
+    width: 40px;
+}
+
+.active{
+font-weight: 600;
+}
